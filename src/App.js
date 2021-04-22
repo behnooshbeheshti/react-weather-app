@@ -11,8 +11,14 @@ export default function App() {
           target="_blank"
         >
           Open-source code
+        </a>{" "}
+        by{" "}
+        <a
+          href="https://www.linkedin.com/in/behnoosh-beheshti/"
+          target="_blank"
+        >
+          Behnoosh Beheshti
         </a>
-        by Behnoosh Beheshti
       </footer>
     </div>
   );
