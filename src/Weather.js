@@ -53,7 +53,7 @@ export default function Weather(props) {
           <li>
             Last updated: <span>{weatherData.data}</span>
           </li>
-          <li>{weatherData.description}</li>
+          <li className="text-capitalize">{weatherData.description}</li>
         </ul>
         <div className="row mt-3">
           <div className="col-6">
