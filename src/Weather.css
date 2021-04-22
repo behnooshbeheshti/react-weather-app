@@ -9,8 +9,9 @@
 .Weather h1 {
   font-size: 24px;
   font-weight: 100;
+  font-weight: bold;
   line-height: 24px;
-  margin: 20px 0 0 0;
+  margin: 20px 0 5px 0px;
 }
 
 .Weather ul {
@@ -45,10 +46,9 @@
   font-weight: 400;
   position: relative;
   top: -34px;
-  margin-left: 5px;
   line-height: 1;
 }
 
 .Weather .parameters {
-  text-align: center;
+  margin-left: 50px;
 }
