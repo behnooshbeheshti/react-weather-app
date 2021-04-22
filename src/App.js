@@ -9,6 +9,7 @@ export default function App() {
         <a
           href="https://github.com/behnooshbeheshti/react-weather-app"
           target="_blank"
+          rel="noopener noreferrer"
         >
           Open-source code
         </a>{" "}
@@ -16,6 +17,7 @@ export default function App() {
         <a
           href="https://www.linkedin.com/in/behnoosh-beheshti/"
           target="_blank"
+          rel="noopener noreferrer"
         >
           Behnoosh Beheshti
         </a>
