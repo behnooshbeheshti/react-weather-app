@@ -1,0 +1,17 @@
+.Weather {
+  border: 1px solid #dadde1;
+  border-radius: 4px;
+  padding: 20px;
+}
+
+.Weather li {
+  list-style: none;
+}
+
+.Weather ul {
+  padding: 0;
+}
+
+.btn {
+  padding: 0;
+}
