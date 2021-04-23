@@ -1,13 +1,16 @@
 .Weather {
   font-family: arial, sans-serif;
-  border: 1px solid #dadde1;
-  border-radius: 4px;
-  padding: 30px;
-  color: rgb(135 135 135);
+  border: 2px solid rgb(33 33 33);
+  border-radius: 10px;
+  padding: 36px;
+  color: rgb(33 33 33);
+  background-image: url(./background.jpg);
+  background-size: cover;
 }
 
 .Weather h1 {
   font-size: 30px;
+  color: rgb(33 33 33);
   font-weight: 100;
   line-height: 24px;
   margin: 20px 0 5px 0px;
@@ -30,7 +33,7 @@
 }
 
 .Weather .temperature {
-  font-size: 64px;
+  font-size: 80px;
   margin-left: 10px;
   color: rgb(33 33 33);
   font-weight: 400;
@@ -38,7 +41,7 @@
 }
 
 .Weather .units {
-  font-size: 16px;
+  font-size: 18px;
   color: rgb(33 33 33);
   font-weight: 400;
   position: relative;
@@ -47,11 +50,14 @@
 }
 
 .Weather .tempView {
-  margin-top: 38px;
-  margin-left: 5px;
+  margin-top: 22px;
 }
 
-.Weather .tempIcon {
-  margin-top: 40px;
-  margin-right: 30px;
+.Weather .mainParameters {
+  text-align: center;
+}
+
+.Weather .parameters {
+  text-align: center;
+  margin-inline-end: ;
 }
