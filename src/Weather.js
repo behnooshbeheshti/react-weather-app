@@ -15,7 +15,6 @@ export default function Weather(props) {
       description: response.data.weather[0].description,
       temperature: Math.round(response.data.main.temp),
       feelslike: Math.round(response.data.main.feels_like),
-      visibility: response.data.visibility / 100,
       humidity: response.data.main.humidity,
       wind: Math.round(response.data.wind.speed),
       icon: response.data.weather[0].icon,

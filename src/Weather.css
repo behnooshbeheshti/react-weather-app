@@ -47,6 +47,11 @@
 }
 
 .Weather .tempView {
-  margin-top: 14px;
+  margin-top: 38px;
   margin-left: 5px;
+}
+
+.Weather .tempIcon {
+  margin-top: 40px;
+  margin-right: 30px;
 }
