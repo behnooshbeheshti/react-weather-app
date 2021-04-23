@@ -30,7 +30,7 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Behnoosh Beheshti
+            <strong>Behnoosh Beheshti</strong>
           </a>
         </footer>
       </div>
