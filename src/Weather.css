@@ -26,7 +26,7 @@
 }
 
 .Weather canvas {
-  margin: 5px auto;
+  margin: 0;
 }
 
 .Weather .temperature {
@@ -44,4 +44,9 @@
   position: relative;
   top: -34px;
   line-height: 1;
+}
+
+.Weather .tempView {
+  margin-top: 12px;
+  margin-left: 5px;
 }
