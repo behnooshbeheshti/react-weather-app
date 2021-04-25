@@ -10,7 +10,7 @@
 .Weather h1 {
   font-size: 30px;
   color: rgb(33 33 33);
-  font-weight: 100;
+  font-weight: bold;
   line-height: 24px;
   margin: 34px 0 5px 0px;
 }
@@ -35,7 +35,7 @@
   font-size: 80px;
   margin-left: 10px;
   color: rgb(33 33 33);
-  font-weight: 400;
+  font-weight: bold;
   line-height: 64px;
 }
 

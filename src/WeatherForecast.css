@@ -14,9 +14,10 @@
 
 .WeatherForecast-tempMax {
   font-weight: bold;
+  font-size: 18px;
 }
 
 .WeatherForecast-tempMin {
-  opacity: 0.6;
+  opacity: 0.8;
   margin-left: 5px;
 }
