@@ -5,19 +5,3 @@
   margin-top: 20px;
   padding: 8px;
 }
-
-.WeatherForecast-day {
-  font-size: 18px;
-  opacity: 0.8;
-  font-weight: bold;
-}
-
-.WeatherForecast-tempMax {
-  font-weight: bold;
-  font-size: 18px;
-}
-
-.WeatherForecast-tempMin {
-  opacity: 0.8;
-  margin-left: 5px;
-}
