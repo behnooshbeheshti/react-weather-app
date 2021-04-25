@@ -14,7 +14,7 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <strong>GitHub</strong>
+            GitHub
           </a>{" "}
           and hosted on{" "}
           <a
@@ -22,7 +22,7 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <strong>Netlify</strong>
+            Netlify
           </a>{" "}
           by{" "}
           <a
@@ -30,7 +30,7 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <strong>Behnoosh Beheshti</strong>
+            Behnoosh Beheshti
           </a>
         </footer>
       </div>

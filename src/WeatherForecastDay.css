@@ -10,6 +10,7 @@
 }
 
 .WeatherForecast-tempMin {
-  opacity: 0.8;
+  opacity: 0.6;
+  font-weight: bold;
   margin-left: 5px;
 }
