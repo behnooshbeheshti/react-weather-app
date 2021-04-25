@@ -62,7 +62,7 @@ export default function Weather(props) {
             <div className="col-3">
               <input
                 type="submit"
-                value="Current"
+                value="coming soon..."
                 className="btn btn-secondary w-100"
               />
             </div>
