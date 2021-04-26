@@ -16,7 +16,11 @@ export default function WeatherInfo(props) {
               </li>
             </ul>
             <br />
-            <WeatherTemperature celsius={props.data.temperature} />
+            <WeatherTemperature
+              celsius={props.data.temperature}
+              unit={props.unit}
+              setUnit={props.setUnit}
+            />
           </div>
         </div>
         <div className="col-6">
