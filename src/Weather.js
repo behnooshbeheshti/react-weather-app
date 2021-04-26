@@ -41,7 +41,7 @@ export default function Weather(props) {
   }
 
   function getCurrentLocation(position) {
-    const apiKey = "f3b0d7fc3c211aec3174c405320dd931";
+    const apiKey = "65ce7574d4f259033178f9fae0906779";
     let units = "metric";
     let lat = position.coords.latitude;
     let lon = position.coords.longitude;
